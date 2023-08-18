@@ -19,6 +19,13 @@
     background-color: #F7E1AE;
     position: relative;
 }
+#navbar{
+    height: 5%;
+    width: 50%;
+    transform: translateX(50%);
+    background-color:#eba910;
+    
+}
 
 #page-bottom{
     height: 50rem;
